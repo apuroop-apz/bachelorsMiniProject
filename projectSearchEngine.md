@@ -456,7 +456,7 @@ The DFD drawn first at a preliminary level is further expanded into greater deta
 
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig5.png)
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig6.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig6.jpg)
 
 ** Level-1 Data Flow Diagram**
 
@@ -469,7 +469,7 @@ system.
 A  class  diagram  shows  a  set  of  classes,  interfaces  and  collaborations  and   their
 relationships.
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig7.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig7.jpg)
 
 #### Use-case Diagram
 A Use-Case diagram shows a set of use-cases and actors and their relationships. Use-
@@ -477,19 +477,19 @@ Case is a pattern of behavior the system exhibits. Each use case is a sequence o
 transactions  performed  by an  actor  and  the system  in  a dialogue.  An  actor  is someone or
 something that must interact with the system under development.
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig8.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig8.jpg)
 
 #### Activity Diagram
 An activity diagram is a flow from activity to activity within a system.
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.1.png)
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.2.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.1.jpg)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.2.jpg)
 
 
 #### Sequence Diagram
 A sequence diagram emphasizes the time ordering of messages.
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.3.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.3.jpg)
 
 ## Result Analysis
 ### Test Cases and Scenarios 
@@ -501,7 +501,7 @@ the system are to be tested (e.g., whether the user interface is usable and cons
 the system’s user manual fulfills its purpose). The test model is a collection of test
 cases, test procedures, and test components.
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.4.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.4.jpg)
 
 If  the  test  model  is  large,  that is,  if it  contains  a large  number  of test  cases,  test
 procedures, and/or test components, it may be useful to introduce packages in the model to
@@ -526,7 +526,7 @@ implementing the use case. The test cases based on a use-case realization typica
 “white box” test of the system (i.e., a test of the internal interaction
 between components of the system).
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.5.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.5.jpg)
 
 #### System Testing
 The testing phase is an important part of software development. It is the process of
@@ -702,15 +702,15 @@ during beta tests, the software developer makes modification and then prepares f
 
 ### Results
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.1.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.1.jpg)
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.2.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.2.jpg)
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.3.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.3.jpg)
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.4.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.4.jpg)
 
-![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.5.png)
+![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.5.jpg)
 
 
 
