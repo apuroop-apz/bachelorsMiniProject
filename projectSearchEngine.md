@@ -458,7 +458,7 @@ The DFD drawn first at a preliminary level is further expanded into greater deta
 
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig6.jpg)
 
-** Level-1 Data Flow Diagram**
+**Level-1 Data Flow Diagram**
 
 ### UML diagrams
 UML  diagrams  are  the  ultimate  output  of  the  entire  project.  All  the  elements,
@@ -483,8 +483,12 @@ something that must interact with the system under development.
 An activity diagram is a flow from activity to activity within a system.
 
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.1.jpg)
+
+**Activity Diagram for Admin**
+
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.2.jpg)
 
+**Activity Diagram for User**
 
 #### Sequence Diagram
 A sequence diagram emphasizes the time ordering of messages.
@@ -502,6 +506,8 @@ the system’s user manual fulfills its purpose). The test model is a collection
 cases, test procedures, and test components.
 
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.4.jpg)
+
+**The Test Model**
 
 If  the  test  model  is  large,  that is,  if it  contains  a large  number  of test  cases,  test
 procedures, and/or test components, it may be useful to introduce packages in the model to
@@ -527,6 +533,8 @@ implementing the use case. The test cases based on a use-case realization typica
 between components of the system).
 
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.5.jpg)
+
+**A test case can be derived from, and thereby traceable to, a use case in the use-case model or a use-case realization in the design model.**
 
 #### System Testing
 The testing phase is an important part of software development. It is the process of
@@ -704,15 +712,23 @@ during beta tests, the software developer makes modification and then prepares f
 
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.1.jpg)
 
+**Home Page**
+
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.2.jpg)
+
+**Login Page**
 
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.3.jpg)
 
+**Register Page**
+
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.4.jpg)
+
+**View Projects**
 
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.5.jpg)
 
-
+**Download files**
 
 ## Conclusion
 
@@ -726,8 +742,7 @@ anywhere and whenever necessary the user can search and view the project. If req
 the user can download the files from the website.
 
 ## References
-- “The Complete Reference Java 2, Fifth Edition” by Patrick Naughton and Herbert
-Schildt.
+- “The Complete Reference Java 2, Fifth Edition” by Patrick Naughton and Herbert Schildt.
 - “Software Engineering: A Practitioner’s Approach, Fourth Edition” by Pressman R.S.
 - “Software Engineering Concepts” by Richard E Fairely.
 - “Core JAVA Volume II – Advanced Features” by Cay S. Horstmann, Gary Cornell.
