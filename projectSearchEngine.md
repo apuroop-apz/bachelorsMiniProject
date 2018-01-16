@@ -709,26 +709,20 @@ beta testing and reports these to developer at regular intervals. As a result of
 during beta tests, the software developer makes modification and then prepares for the release of the software product to the entire customer base.
 
 ### Results
-
+#### Home Page
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.1.jpg)
 
-**Home Page**
-
+#### Login Page
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.2.jpg)
 
-**Login Page**
-
+#### Register Page
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.3.jpg)
 
-**Register Page**
-
+#### View Projects
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.4.jpg)
 
-**View Projects**
-
+#### Download files
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig99.5.jpg)
-
-**Download files**
 
 ## Conclusion
 
