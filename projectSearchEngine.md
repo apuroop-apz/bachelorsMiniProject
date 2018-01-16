@@ -49,7 +49,7 @@ Table of Contents
   - [Modules](#modules)
     - [Search Engine Module](#search-engine-module)
     - [Page Rank](#page-rank)
-    - [Key_Search](#key_search)
+    - [Keyword_Search](#keyword_search)
     - [How sites get into Search Engines](#how-sites-get-into-search-engines)
   - [DFD diagrams](#dfd-diagrams)
     - [Physical Data Flow Diagrams](#physical-data-flow-diagrams)
