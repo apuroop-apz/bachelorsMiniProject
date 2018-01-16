@@ -23,29 +23,47 @@ features, as needed.
 Table of Contents
 =================
 - [Introduction](#introduction)
-  - [Introduction](#introduction)
+  - [Introduction](#introduction-introduction)
   - [System Analysis](#system-analysis)
-
 - [Literature Survey](#literature-survey)
   - [Existing System](#existing-system)
   - [Problem Definition](#problem-definition)
-
 - [Software Environment](#software-environment)
   - [Java](#java)
+    - [Features of Java](#features-of-java)
+    - [Java Server Pages](#java-server-pages)
+    - [About HTML](#about-html)
+    - [JDBC](#jdbc)
+    - [JDBC Drivers](#jdbc-drivers)
+    - [Web Application Archives](#web-application-archives)
   - [Oracle](#oracle)
+    - [Introduction](#oracle-introduction)
+    - [Advantages of RDBMS](#advantages-of-rdbms)
+    - [Disadvantages of DBMS](#disadvantages-of-dbms)
   - [Apache Tomcat Server](#apache-tomcat-server)
-
 - [Design & Implementation](#design--implementation)
   - [Requirements](#requirements)
+    - [Software Requirements](#software-requirements)
+    - [Hardware Requirements](#hardware-requirements)
   - [Database design](#database-design)
   - [Modules](#modules)
+    - [Search Engine Module](#search-engine-module)
+    - [Page Rank](#page-rank)
+    - [Key_Search](#key_search)
+    - [How sites get into Search Engines](#how-sites-get-into-search-engines)
   - [DFD diagrams](#dfd-diagrams)
+    - [Physical Data Flow Diagrams](#physical-data-flow-diagrams)
+    - [Logical Data Flow Diagrams](#logical-data-flow-diagrams)
   - [UML diagrams](#uml-diagrams)
-  
+    - [Class Diagram](#class-diagram)
+    - [Use-case Diagram](#usecase-diagram)
+    - [Activity Diagram](#activity-diagram)
 - [Result Analysis](#result-analysis)
-
+  - [Test Cases and Scenarios](#test-cases-and-scenarios)
+  - [Test Case Design](#test-case-design)
+  - [Validation](#validation)
+  - [Results](#results)
 - [Conclusion](#conclusion)
-
 - [References](#references)
 
 ## Introduction
@@ -197,7 +215,7 @@ The JDBC API makes it possible to do three things:
 3.  Process the results
 
 
-#### JDBC DRIVERS
+#### JDBC Drivers
 Today, there are four types of JDBC drivers in use:
 1. Type 1: JDBC-ODBC bridge
 2. Type 2: partial Java driver
@@ -283,7 +301,7 @@ Data abstraction is divided into three levels.
 7. Conflicting requirements can be balanced
 8. Data independence can be achieved.
 
-##### Disadvantages of DBMS
+#### Disadvantages of DBMS
 A significant disadvantage of the DBMS system is cost.   In addition to the cost of
 purchasing of developing the software, the hardware has to be upgraded to allow for the extensive 
 programs and the workspace required for their execution and storage. While centralization reduces 
@@ -313,9 +331,7 @@ Runtime environment.
 
 ### Database design
 The most  important  aspect  of the system  is  data design.  The data must  be organized according to the system requirements.
-
 The database approach is to store and organize the data in the developing the system.
-
 The database is an integrated collection of data stored in different types of tables.
 
 Some general objectives in establishing a database are as follows
@@ -401,7 +417,7 @@ When ranking results, search engines give special weight to keywords that appear
 More weight is put on the factors that the site owner would find it awkward to fake, such
 as inbound link text, page title, and description.
 
-**How sites get into search engines**
+**How sites get into Search Engines**
 
 The base case is that spiders crawl the entire Web, starting from known pages and following all 
 links, and also crawling pages that are hand-submitted. Google is pretty much like that still. If a 
@@ -482,13 +498,13 @@ something that must interact with the system under development.
 #### Activity Diagram
 An activity diagram is a flow from activity to activity within a system.
 
+##### Activity Diagram for Admin
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.1.jpg)
 
-**Activity Diagram for Admin**
-
+##### Activity Diagram for User
 ![alt text](https://github.com/apuroop-apz/bachelorsMiniProject/blob/master/figures/fig9.2.jpg)
 
-**Activity Diagram for User**
+
 
 #### Sequence Diagram
 A sequence diagram emphasizes the time ordering of messages.
