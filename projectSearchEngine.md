@@ -23,7 +23,7 @@ features, as needed.
 Table of Contents
 =================
 - [Introduction](#introduction)
-  - [Introduction](#introduction-introduction)
+  - [About Project Search Engine](#about-project-search-engine)
   - [System Analysis](#system-analysis)
 - [Literature Survey](#literature-survey)
   - [Existing System](#existing-system)
@@ -37,7 +37,7 @@ Table of Contents
     - [JDBC Drivers](#jdbc-drivers)
     - [Web Application Archives](#web-application-archives)
   - [Oracle](#oracle)
-    - [Introduction](#oracle-introduction)
+    - [About Oracle](#about-oracle)
     - [Advantages of RDBMS](#advantages-of-rdbms)
     - [Disadvantages of DBMS](#disadvantages-of-dbms)
   - [Apache Tomcat Server](#apache-tomcat-server)
@@ -49,14 +49,14 @@ Table of Contents
   - [Modules](#modules)
     - [Search Engine Module](#search-engine-module)
     - [Page Rank](#page-rank)
-    - [Key_Search](#key_search)
+    - [Key Search](#key-search)
     - [How sites get into Search Engines](#how-sites-get-into-search-engines)
   - [DFD diagrams](#dfd-diagrams)
     - [Physical Data Flow Diagrams](#physical-data-flow-diagrams)
     - [Logical Data Flow Diagrams](#logical-data-flow-diagrams)
   - [UML diagrams](#uml-diagrams)
     - [Class Diagram](#class-diagram)
-    - [Use-case Diagram](#usecase-diagram)
+    - [Use-case Diagram](#use-case-diagram)
     - [Activity Diagram](#activity-diagram)
 - [Result Analysis](#result-analysis)
   - [Test Cases and Scenarios](#test-cases-and-scenarios)
@@ -67,7 +67,7 @@ Table of Contents
 - [References](#references)
 
 ## Introduction
-### Introduction
+### About Project Search Engine
 **Project Search engine** is the process of improving the volume and quality of traffic to a web site from search engines via "natural" ("organic" or "algorithmic") search results. Usually, a site is presented in the search results or the higher it "ranks", the more searchers will visit that site. Search engine can also target different kinds of search, including image search, local 
 search, and industry-specific vertical search engines.
 
@@ -373,7 +373,7 @@ score just for existing. 85% of this Page Rank is passed along to the pages that
 divided more or less equally along its outgoing links. A page's Page Rank is the sum of   the   
 minimum   value   plus   all   the   Page   Rank   passed   to   it   via   incoming  links.
 
-**Keyword_Search**
+#### Keyword_Search
 
 This is the most common form of text search on the Web.  Most search engines do their text query and retrieval.
 
@@ -417,7 +417,7 @@ When ranking results, search engines give special weight to keywords that appear
 More weight is put on the factors that the site owner would find it awkward to fake, such
 as inbound link text, page title, and description.
 
-**How sites get into Search Engines**
+#### How sites get into Search Engines
 
 The base case is that spiders crawl the entire Web, starting from known pages and following all 
 links, and also crawling pages that are hand-submitted. Google is pretty much like that still. If a 
